@@ -40,5 +40,6 @@ class AppletRenderer {
     }
 }
 
+
 const appletRenderer = new AppletRenderer('applet-container');
 appletRenderer.fetchAppletData('applets.json');
