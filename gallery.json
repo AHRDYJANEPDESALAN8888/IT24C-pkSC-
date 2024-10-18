@@ -1,26 +1,27 @@
+
 [
     {
         "title": "Applet 1 - Basic Events",
         "description": "This application contains the basic implementation of DOM events.",
         "imageUrl": "https://i.pinimg.com/736x/5c/9f/02/5c9f02181c75ac72e386b6d8753fe34b.jpg",
-        "link": "./L06-AppletGallery/"
+        "link": "./Applet1/"
     },
     {
         "title": "Applet 2 - Leaflet Map",
         "description": "This application contains the basic web map.",
         "imageUrl": "https://i.pinimg.com/736x/5c/9f/02/5c9f02181c75ac72e386b6d8753fe34b.jpg",
-        "link": "./L07-LeafletMap/"
+        "link": "./Applet2/"
     },
     {
         "title": "Applet 3 - Event Logger",
         "description": "This application contains the logs with the date and total number of logs.",
         "imageUrl": "https://i.pinimg.com/736x/5c/9f/02/5c9f02181c75ac72e386b6d8753fe34b.jpg",
-        "link": "./L08-EventLogger/"
+        "link": "./Applet3/"
     },
     {
         "title": "Applet 4 - Dynamic Elements",
         "description": "This application applies dynamic elements such as rendering DOM elements from a list.",
         "imageUrl": "https://i.pinimg.com/736x/5c/9f/02/5c9f02181c75ac72e386b6d8753fe34b.jpg",
-        "link": "./L09-DynamicElements/"
+        "link": "./Applet4/"
     }
 ]
